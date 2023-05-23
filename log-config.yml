@@ -1,0 +1,6 @@
+LogLevel:
+  Fatal:
+    PrintToConsole: true
+  Error:
+    PrintToConsole: true
+LogTimeFormat: '%F %H:%M:%S'

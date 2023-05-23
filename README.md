@@ -1,2 +1,9 @@
-# Solvine-DM
-Gamemodes Solvine Deathmatch, Dibantu oleh FLAMESIDGS
+# Division-DM
+
+Trello: n/a
+
+Discord: n/a
+
+SAMP: n/a
+
+TS: n/a

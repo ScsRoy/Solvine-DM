@@ -1,0 +1,4 @@
+{
+  #cmd: "pawno\\pawncc.exe velion_script.pwn -;+ -(+ -d3 -Z+ -i=pawno\\include -D=.\\gamemodes"
+  cmd: "pawno\\pawncc.exe velion_script.pwn -;+ -v2 -d3 -Z+ -\\)+ -i=pawno\\include -D=.\\gamemodes"
+}
