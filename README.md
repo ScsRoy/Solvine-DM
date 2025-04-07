@@ -1,9 +1,3 @@
-# Division-DM
+CREDITS: Division-DM
 
-Trello: n/a
-
-Discord: n/a
-
-SAMP: n/a
-
-TS: n/a
+this source, is legal for SA:MP Server
